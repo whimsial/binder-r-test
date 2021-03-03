@@ -3,3 +3,4 @@ channels:
 dependencies:
   - r-base=4.0.2
   - r-tidyverse
+  - r-data.table
