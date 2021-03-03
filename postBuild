@@ -1,0 +1,2 @@
+wget -q -O trans-eQTLS.txt.gz "https://molgenis26.gcc.rug.nl/downloads/eqtlgen/trans-eqtl/2018-09-04-trans-eQTLsFDR0.05-CohortInfoRemoved-BonferroniAdded.txt.gz"
+gunzip trans-eQTLS.txt.gz
